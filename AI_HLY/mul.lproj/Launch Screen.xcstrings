@@ -20,19 +20,19 @@
       }
     },
     "iN4-r6-OB7.text" : {
-      "comment" : "Class = \"UITextView\"; text = \"AI 翰林院\"; ObjectID = \"iN4-r6-OB7\";",
+      "comment" : "Class = \"UITextView\"; text = \"2025\"; ObjectID = \"iN4-r6-OB7\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "AI 翰林院"
+            "state" : "needs_review",
+            "value" : "ZYD AI"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "AI 翰林院"
+            "value" : "2025"
           }
         }
       }

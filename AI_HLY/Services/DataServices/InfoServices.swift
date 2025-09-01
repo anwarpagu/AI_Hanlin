@@ -353,30 +353,6 @@ func getModelList() -> [AllModels] {
         // 0
         AllModels(name: "qwen/qwq-32b:free", displayName: "Qwen-QWQ-32B(OpenRouter)", identity: "model", position: 108, company: "OPENROUTER", price: 0, isHidden: true, supportsSearch: true, supportsMultimodal: false, supportsReasoning: true),
         
-        // MARK: 翰林内置
-        // 免费
-        AllModels(name: "glm-4-flash_hanlin", displayName: "Hanlin-GLM4", identity: "model", position: 109, company: "HANLIN", price: 0, isHidden: false, supportsSearch: true, supportsToolUse: true),
-        // 免费
-        AllModels(name: "glm-4-flash-250414_hanlin", displayName: "Hanlin-GLM4-Latest", identity: "model", position: 109, company: "HANLIN", price: 0, isHidden: false, supportsSearch: true, supportsToolUse: true),
-        // 免费
-        AllModels(name: "glm-4.5-flash_hanlin", displayName: "Hanlin-GLM4.5-Flash", identity: "model", position: 11, company: "HANLIN", price: 0, isHidden: true, supportsSearch: true, supportsReasoning: true, supportReasoningChange: true, supportsToolUse: true),
-        // 免费
-        AllModels(name: "THUDM/GLM-4-9B-0414_hanlin", displayName: "Hanlin-GLM4-9B", identity: "model", position: 109, company: "HANLIN_OPEN", price: 0, isHidden: false, supportsSearch: true, supportsToolUse: true),
-        // 免费
-        AllModels(name: "Qwen/Qwen3-8B_hanlin", displayName: "Hanlin-Qwen3-8B", identity: "model", position: 110, company: "HANLIN_OPEN", price: 0, isHidden: false, supportsSearch: true, supportsReasoning: true, supportReasoningChange: true, supportsToolUse: true),
-        // 免费
-        AllModels(name: "glm-z1-flash_hanlin", displayName: "Hanlin-GLM-Z1", identity: "model", position: 111, company: "HANLIN", price: 0, isHidden: false, supportsSearch: true, supportsReasoning: true),
-        // 免费
-        AllModels(name: "THUDM/GLM-Z1-9B-0414_hanlin", displayName: "Hanlin-GLM-Z1-9B", identity: "model", position: 111, company: "HANLIN_OPEN", price: 0, isHidden: false, supportsSearch: true, supportsReasoning: true),
-        // 免费
-        AllModels(name: "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B_hanlin", displayName: "Hanlin-DeepSeek-R1-Distill-Qwen-7B", identity: "model", position: 112, company: "HANLIN_OPEN", price: 0, isHidden: false, supportsSearch: true, supportsReasoning: true),
-        // 免费
-        AllModels(name: "glm-4v-flash_hanlin", displayName: "Hanlin-GLM4V", identity: "model", position: 113, company: "HANLIN", price: 0, isHidden: false, supportsSearch: true, supportsMultimodal: true, supportsReasoning: false),
-        // 免费
-        AllModels(name: "cogview-3-flash_hanlin", displayName: "Hanlin-CogView3", identity: "model", position: 114, company: "HANLIN", price: 0, isHidden: false, supportsTextGen: false, supportsImageGen: true),
-        // 免费
-        AllModels(name: "Kwai-Kolors/Kolors_hanlin", displayName: "Hanlin-Kolors", identity: "model", position: 115, company: "HANLIN_OPEN", price: 0, isHidden: false, supportsTextGen: false, supportsImageGen: true),
-        
         // MARK: 智能体
         // MARK: 基于翰林模型的智能体
         // 免费

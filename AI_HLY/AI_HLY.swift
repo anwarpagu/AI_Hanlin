@@ -1,8 +1,8 @@
 //
-//  AI_HLYApp.swift
+//  App.swift
 //  AI_HLY
 //
-//  Created by 哆啦好多梦 on 3/2/25.
+//  Created by zhiyuan20002 on 3/2/25.
 //
 
 import SwiftUI

@@ -332,10 +332,11 @@
 				DEVELOPMENT_ASSET_PATHS = AI_HLY/Views;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "HLY-AI-iTool-Info.plist";
+				INFOPLIST_FILE = "AI-HLY-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "AI翰林院";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "需要访问您的日历以读取和添加事件。";
 				INFOPLIST_KEY_NSCameraUsageDescription = "需要访问您的相册以保存图片";
 				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "需要访问健康数据以便提供相关服务";
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "需要访问健康数据以便提供相关服务";
@@ -345,6 +346,7 @@
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "需要访问您的麦克风进行录音";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "需要访问您的相机用于拍照";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "需要访问您的相册用于选择图片";
+				INFOPLIST_KEY_NSRemindersFullAccessUsageDescription = "需要访问您的提醒事项以读取和添加任务。";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "我们需要访问您的语音识别权限";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -361,7 +363,7 @@
 				);
 				MARKETING_VERSION = 0.7.1;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aihanlin.AI-HLY";
+				PRODUCT_BUNDLE_IDENTIFIER = "zhiyuan20002.com.AI-Hanlin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -386,10 +388,11 @@
 				DEVELOPMENT_ASSET_PATHS = AI_HLY/Views;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "HLY-AI-iTool-Info.plist";
+				INFOPLIST_FILE = "AI-HLY-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "AI翰林院";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "需要访问您的日历以读取和添加事件。";
 				INFOPLIST_KEY_NSCameraUsageDescription = "需要访问您的相册以保存图片";
 				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "需要访问健康数据以便提供相关服务";
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "需要访问健康数据以便提供相关服务";
@@ -399,6 +402,7 @@
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "需要访问您的麦克风进行录音";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "需要访问您的相机用于拍照";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "需要访问您的相册用于选择图片";
+				INFOPLIST_KEY_NSRemindersFullAccessUsageDescription = "需要访问您的提醒事项以读取和添加任务。";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "我们需要访问您的语音识别权限";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -415,7 +419,7 @@
 				);
 				MARKETING_VERSION = 0.7.1;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aihanlin.AI-HLY";
+				PRODUCT_BUNDLE_IDENTIFIER = "zhiyuan20002.com.AI-Hanlin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
