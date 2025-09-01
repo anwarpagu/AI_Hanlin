@@ -21,7 +21,7 @@
     },
     "iN4-r6-OB7.text" : {
       "comment" : "Class = \"UITextView\"; text = \"2025\"; ObjectID = \"iN4-r6-OB7\";",
-      "extractionState" : "extracted_with_value",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
