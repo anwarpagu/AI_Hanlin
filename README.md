@@ -54,3 +54,7 @@ If you encounter any issues during installation or while using the app, please c
 For any questions or support, feel free to reach out via the issues section of this repository. We are here to help you!
 
 Thank you for choosing AI_Hanlin. Happy chatting!
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/ai-hanlin)
